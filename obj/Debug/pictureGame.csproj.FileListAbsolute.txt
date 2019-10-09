@@ -1,0 +1,14 @@
+C:\Users\tony\source\repos\pictureGame\bin\Debug\pictureGame.exe.config
+C:\Users\tony\source\repos\pictureGame\bin\Debug\pictureGame.exe
+C:\Users\tony\source\repos\pictureGame\bin\Debug\pictureGame.pdb
+C:\Users\tony\source\repos\pictureGame\obj\Debug\pictureGame.csprojAssemblyReference.cache
+C:\Users\tony\source\repos\pictureGame\obj\Debug\pictureGame.Form1.resources
+C:\Users\tony\source\repos\pictureGame\obj\Debug\pictureGame.Properties.Resources.resources
+C:\Users\tony\source\repos\pictureGame\obj\Debug\pictureGame.csproj.GenerateResource.cache
+C:\Users\tony\source\repos\pictureGame\obj\Debug\pictureGame.csproj.CoreCompileInputs.cache
+C:\Users\tony\source\repos\pictureGame\obj\Debug\pictureGame.exe
+C:\Users\tony\source\repos\pictureGame\obj\Debug\pictureGame.pdb
+C:\Users\tony\source\repos\pictureGame\obj\Debug\pictureGame.Form2.resources
+C:\Users\tony\Desktop\Portfolio\dot_NET_pictureGame\pictureGame\obj\Debug\pictureGame.csprojAssemblyReference.cache
+C:\Users\tony\Desktop\Portfolio\dot_NET_pictureGame\pictureGame\obj\Debug\pictureGame.exe
+C:\Users\tony\Desktop\Portfolio\dot_NET_pictureGame\pictureGame\obj\Debug\pictureGame.pdb
